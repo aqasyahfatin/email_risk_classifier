@@ -54,7 +54,7 @@ Due to GitHub file size limits (>100 MB per file), raw and cleaned dataset files
   - 1,641 Phishing emails misclassified as Spam.
 - **Root Cause**: Both classes share promotional language, urgency triggers ('verify account'), and `url_link` placeholders. TF-IDF frequency features lack deep contextual semantics needed to separate commercial marketing from malicious intent.
 
-## 🛠️ Project Structure & Reproducibility
+## Project Structure & Reproducibility
 
 ### Repository Structure
 ```text
