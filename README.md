@@ -3,8 +3,6 @@
 
 An end-to-end NLP risk classification pipeline and interactive Streamlit application that categorizes incoming emails into 3 risk tiers—**Ham (Safe)**, **Spam (Mid Risk)**, and **Phishing (High Risk)**—using calibrated Linear SVM and n-gram feature extraction.
 
----
-
 ## Key Results & Performance Summary
 
 | Model Architecture | Hyperparameters | Accuracy | Macro F1 | Security & Business Impact |
