@@ -1,0 +1,15 @@
+# Large datasets (link to original sources in README instead)
+data/raw/*.csv
+data/processed/*.csv
+*.csv
+
+# Python & Jupyter clutter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS & editor files
+.DS_Store
